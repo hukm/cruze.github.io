@@ -21,8 +21,7 @@
 title: Cruze
 email: maximgook@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Cruze, Chevrolet Cruze, ДХО, подлокотник, подлокотник Cruze, опускание зеркала, опускание зеркала при парковке
-ДХО дальний в полнакала, дальний в полнакала Cruze, mgook
+Cruze
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
