@@ -18,13 +18,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-
 title: Your awesome title
 email: your-email@example.com
 description: 'Cruze'
