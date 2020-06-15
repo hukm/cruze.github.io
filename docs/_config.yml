@@ -24,7 +24,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 title: Your awesome title
 email: your-email@example.com
