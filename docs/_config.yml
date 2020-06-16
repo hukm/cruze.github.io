@@ -22,8 +22,8 @@
 title:            Cruze
 tagline:          'Cruze site'
 description:      'A brazen two-column'
-url:              https://hukm.github.io/cruze.github.io/
-baseurl:          /cruze.github.io
+url:              https://hukm.github.io/cruze.github.io
+baseurl:          /
 
 #title: Your awesome title
 #email: your-email@example.com
